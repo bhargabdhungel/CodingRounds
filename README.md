@@ -16,10 +16,20 @@ This repository is created to help the students who are preparing for the coding
 
 ## How to contribute?
 
-1. Fork the repository.
+1. Fork the repository [Coding Round Questions](https://github.com/jindalujjwal0720/CodingRounds/).
+
 2. Clone the repository to your local machine.
-3. Add the questions asked in the coding round of the company you appeared for in the respective year's markdown file.
-4. Commit the changes and push it to your forked repository.
-5. To ensure the coding round and questions are not repeated in the same folder, please check the folder for the company you are appearing for and the year you are appearing in. If the folder or the file does not exist, create one and add the questions.
-6. To ensure the the questions are really asked in the coding round, please add the source of the questions in the message of the commit. For example, if the questions are asked in the coding round of Amazon in the year 2020, add the source like image of question or any other to confirm the questions are really asked in the coding round.
-7. Create a pull request to the main repository.
+
+3. To write the questions in the markdown, go to the website [Coding Problem MD Creator](https://jindalujjwal0720.github.io/CodingProblemMDCreator/), write the questions and copy the markdown code.
+
+4. Add the copied markdown in the respective company's and year's folder.
+
+5. Commit the changes and push it to your forked repository.
+
+6. Create a pull request to the main repository.
+
+Note: Please follow the below guidelines while contributing to the repository.
+
+1. To ensure the coding round and questions are not repeated in the same folder, please check the folder for the company you are appearing for and the year you are appearing in. If the folder or the file does not exist, create one and add the questions.
+
+2. To ensure the the questions are really asked in the coding round, please add the source of the questions in the message of the commit. For example, if the questions are asked in the coding round of Amazon in the year 2020, add the source like image of question or any other to confirm the questions are really asked in the coding round.
