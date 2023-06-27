@@ -4,6 +4,7 @@
 
 - [What is it?](#what-is-it)
 - [Why this repository?](#why-this-repository)
+- [Contributors](#contributors)
 - [How to contribute?](#how-to-contribute)
 
 ## What is it?
