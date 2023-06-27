@@ -14,6 +14,14 @@ This is a repository dedicated to the technical coding rounds of companies yearw
 
 This repository is created to help the students who are preparing for the coding rounds of various companies. This repository will help them to get an idea of the questions asked in the coding rounds of various companies.
 
+## Contributors
+
+<a href="https://github.com/jindalujjwal0720/CodingRounds/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=jindalujjwal0720/CodingRounds" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
+
 ## How to contribute?
 
 1. Fork the repository [Coding Round Questions](https://github.com/jindalujjwal0720/CodingRounds/).
