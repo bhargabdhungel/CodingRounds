@@ -14,17 +14,6 @@ This is a repository dedicated to the technical coding rounds of companies yearw
 
 This repository is created to help the students who are preparing for the coding rounds of various companies. This repository will help them to get an idea of the questions asked in the coding rounds of various companies.
 
-## Contributors
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
 ## How to contribute?
 
 1. Fork the repository [Coding Round Questions](https://github.com/jindalujjwal0720/CodingRounds/).
