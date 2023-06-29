@@ -1,5 +1,7 @@
 # Coding Round Questions
 
+### Support the initiative by starring ⭐ the repository.
+
 ## Table of Contents
 
 - [What is it?](#what-is-it)
@@ -17,9 +19,13 @@ This repository is created to help the students who are preparing for the coding
 
 ## Contributors
 
-<a href="https://github.com/jindalujjwal0720/CodingRounds/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=jindalujjwal0720/CodingRounds" />
-</a>
+Thanks goes to all the wonderful people who have contributed to this repository. [Contributors](https://github.com/jindalujjwal0720/CodingRounds/graphs/contributors)
+
+## What to contribute?
+
+You can `contribute the questions asked in the coding rounds of various companies.` The questions should be added in the respective company's folder and the year's markdown file. If the company's folder or the year's markdown file does not exist, create one and add the questions.
+
+You can also contribute to the `quality of the markdowns` of the questions. If you find any mistake in the markdowns, you can contribute to it by creating a pull request. If you want to `decorate the markdowns`, you can do that too.
 
 ## How to contribute?
 
