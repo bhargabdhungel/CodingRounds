@@ -21,8 +21,6 @@ This repository is created to help the students who are preparing for the coding
   <img src="https://contrib.rocks/image?repo=jindalujjwal0720/CodingRounds" />
 </a>
 
-Made with [contrib.rocks](https://contrib.rocks).
-
 ## How to contribute?
 
 1. Fork the repository [Coding Round Questions](https://github.com/jindalujjwal0720/CodingRounds/).
