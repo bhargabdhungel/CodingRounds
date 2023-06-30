@@ -2,7 +2,7 @@
 
 ## Problem Statement
 
-There is a 2D array of size `n*2`, requests. At time t = `requests[i][0]`, `requests[i][1]` packets are to be sent over the network. The network can hold at most `max_packets`in the pipeline. It delivers the data to the client at rate of `rate` packets per second, ie `rate` packets are removed from the queue and delivered to client every second.
+There is a 2D array of size `2 × n`, requests. At time t = `requests[i][0]`, `requests[i][1]` packets are to be sent over the network. The network can hold at most `max_packets`in the pipeline. It delivers the data to the client at rate of `rate` packets per second, ie `rate` packets are removed from the queue and delivered to client every second.
 
 If the number of packets exceeds `max_packets` at any time the packets remaining at the time are dropped.
 
