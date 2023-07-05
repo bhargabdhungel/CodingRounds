@@ -21,6 +21,9 @@ This repository is created to help the students who are preparing for the coding
 ## Contributors
 
 Thanks goes to all the wonderful people who have contributed to this repository. [Contributors](https://github.com/jindalujjwal0720/CodingRounds/graphs/contributors)
+<a href="https://github.com/jindalujjwal0720/CodingRounds/graphs/contributors">
+<img src="https://contrib.rocks/image?repo=jindalujjwal0720/CodingRounds" />
+</a>
 
 ## What to contribute?
 
