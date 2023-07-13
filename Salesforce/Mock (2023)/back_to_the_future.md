@@ -20,12 +20,12 @@ total fund
 
 ## Constraints
 
-1 < k <= 10^5<br/>
-0 <= f <= 10^7<br/>
-profit.length = price.length = n<br/>
-1 <= n <= 10^5<br/>
-1<= profit[i] <= 10^4<br/>
-0 <= price[i] <= 10^7
+- `1 < k <= 10^5`
+- `0 <= f <= 10^7`
+- `profit.length = price.length = n`
+- `1 <= n <= 10^5`
+- `1<= profit[i] <= 10^4`
+- `0 <= price[i] <= 10^7`
 
 ## Sample Testcases
 

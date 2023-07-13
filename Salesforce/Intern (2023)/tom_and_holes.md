@@ -17,9 +17,9 @@ For each test case, output on new line, minimum amount of time required to dig a
 
 ## Constraints
 
-1 <= T <= 10<br/>
-1 <= N <= M <= 100000<br/>
-1 <= depth of holes <= 10000
+- `1 <= T <= 10`
+- `1 <= N <= M <= 100000`
+- `1 <= depth of holes <= 10000`
 
 ## Sample Testcases
 

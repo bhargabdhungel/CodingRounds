@@ -32,7 +32,9 @@ Return a string array in which the result of each game is present as per the pro
 
 ## Constraints
 
-1 <= size of "array of special-strings" <= 10^4<br>1 <= size of "special-strings" <= 10^5<br>The Sum of the size of all "special strings" won't exceed 10^6 per test file.
+- `1 <= size of "array of special-strings" <= 10^4`
+- `1 <= size of "special-strings" <= 10^5`
+- `The Sum of the size of all "special strings" won't exceed 10^6 per test file.`
 
 ## Sample Testcases
 
@@ -53,6 +55,6 @@ BERT
 
 ### Explanation 1
 
-1. in the 1-st move, Ernie has to perform the 1-st action(Modify action) as the string is currently a "special string", [pays 1 rupee] {string becomes 1101)
+1. in the 1-st move, Ernie has to perform the 1-st action(Modify action) as the string is currently a "special string", [pays 1 rupee] (string becomes 1101)
 
 2. in the 2-nd move, Bert reverses(Upside-Down action) the string. [pays 0 rupee] (string becomes 1011)

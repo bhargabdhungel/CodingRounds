@@ -14,7 +14,7 @@ An integer which has the sum of all integers in the jumbled string S.
 
 ## Constraints
 
-1 <= S.length <= 5\*10^5
+- `1 <= S.length <= 5×10^5`
 
 ## Sample Testcases
 

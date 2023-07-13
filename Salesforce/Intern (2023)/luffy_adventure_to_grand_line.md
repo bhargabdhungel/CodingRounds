@@ -15,7 +15,7 @@ Note: All characters apart from [A..Z][a..z] are treated as special characters
 
 Assume the length of S is n.
 
-1 <= n <= 1e6
+- `1 <= n <= 1e6`
 
 ## Sample Testcases
 
