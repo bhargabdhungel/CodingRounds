@@ -30,6 +30,14 @@ Since the count can be very large. Output the answer modulo `1e9 + 7`.
 
 For each test case, print the required answer in a new line.
 
+## Constraints
+
+- `1 <= T <= 5`
+
+- `1 <= N <= 100`
+
+- `1 <= S[i] <= 30`
+
 ## Sample Testcases
 
 ### Input 1
