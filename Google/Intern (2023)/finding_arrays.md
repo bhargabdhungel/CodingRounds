@@ -14,7 +14,7 @@ An array `A` is said to be different from array `B` if there exists an index `i`
 
 Since the count can be very large. Output the answer modulo `1e9 + 7`.
 
-**Note**: Consider 1-based indexing.<br>
+**Note**: Consider 1-based indexing.
 
 ## Input Format
 
