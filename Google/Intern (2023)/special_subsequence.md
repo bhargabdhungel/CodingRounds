@@ -60,3 +60,33 @@ cppbg
 ### Explanation 1
 
 2 subsequence are possible answer `cpbg` (includes p at index 1) and `cpbg` (includes p at index 2). Note: Consider 0 based indexing
+
+### Input 2
+
+```
+1
+12
+8
+fpbavjsmppdt
+```
+
+### Output 2
+
+```
+108
+```
+
+### Input 3
+
+```
+1
+16
+7
+ppzfsncqyzmuwrcv
+```
+
+### Output 3
+
+```
+1680
+```
