@@ -1,4 +1,4 @@
-# Max Sum With Special Move
+# Maximum Sum With Special Move
 
 ## Problem Statement
 
