@@ -16,7 +16,7 @@ Given a string `S` and an integer `K`. find the number of distinct special subse
 
 ## Input Format
 
-- The first line contains an integer T, denoting number of test cases.
+- The first line contains an integer `T`, denoting number of test cases.
 
 - For each test case:
 
