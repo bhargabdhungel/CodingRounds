@@ -1,7 +1,0 @@
----
-plugins:
-  - mathjax
-pluginsConfig:
-  mathjax:
-    config: 'TeX-AMS_HTML-full'
----
