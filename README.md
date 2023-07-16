@@ -1,3 +1,11 @@
+---
+plugins:
+  - mathjax
+pluginsConfig:
+  mathjax:
+    config: TeX-AMS-MML_HTMLorMML
+---
+
 # Coding Round Questions
 
 ### Support the initiative by starring ⭐ the repository.

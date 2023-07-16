@@ -22,7 +22,7 @@ Print a list of `Q` space-separated integers where the th integer denotes the an
 
 ## Constraints
 
-- `1 < N < 1e5`
+- `1 < N <= 1e5`
 
 - `1 <= Edges[i][0] < N`
 
