@@ -58,9 +58,9 @@ For each test case, print the maximum value of the expression in a new line.
 ### Explanation 1
 The hybrid sequence `S = [1 4 1 2 3]` gives the maximum value of the expression.
 
-$\left(\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)\right) = 1 + 4 + 4 + 4 + 4 = 17$
-$\left(\sum_{i=1}^{N+M} \min(S_1,\ldots, S_i)\right) = 1 + 1 + 1 + 1 + 1 = 5$
-$\left(\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)\right) - \left(\sum_{i=1}^{N+M} \min(S_1,\ldots, S_i)\right) = 17 - 5 = 12$
+$$\left(\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)\right) = 1 + 4 + 4 + 4 + 4 = 17$$
+$$\left(\sum_{i=1}^{N+M} \min(S_1,\ldots, S_i)\right) = 1 + 1 + 1 + 1 + 1 = 5$$
+$$\left(\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)\right) - \left(\sum_{i=1}^{N+M} \min(S_1,\ldots, S_i)\right) = 17 - 5 = 12$$
 ### Input 2
 
 ```
