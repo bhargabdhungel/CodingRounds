@@ -6,7 +6,7 @@ A hybrid sequence is a sequence that can be divided into two disjoint subsequenc
 
 Given two arrays `A` and `B` of sizes `N` and `M` respectively. You are also given a hybrid sequence `S`.
 
-The expression $\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i) - \sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)$ calculates the difference between the sum of the maximum values and the sum of the minimum values in the hybrid sequence `S`.
+The expression $$\sum_{i=1}^{N+M} \max(S_1,\ldots, S_i) - \sum_{i=1}^{N+M} \max(S_1,\ldots, S_i)$$ calculates the difference between the sum of the maximum values and the sum of the minimum values in the hybrid sequence `S`.
 
 Find the maximum value of the expression for all possible hybrid sequences `S`.
 
