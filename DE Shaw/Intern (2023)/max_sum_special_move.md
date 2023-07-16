@@ -12,8 +12,8 @@ Given val and edges, find the maximum sum of values of the nodes visited on a pa
 
 ```mermaid
 graph TD;
-    1 --> 2
-    1 --> 3
+    1((1)) --> 2((2))
+    1 --> 3((3))
 ```
 
 The optimal path is to traverse from node `1` to `3` and then use the special move to reach `2` and then back again to `1`.
@@ -62,8 +62,8 @@ The optimal path is to move from `1` to `3` and then use the special move to rea
 
 ```mermaid
 graph TD;
-    1 --> 2
-    1 --> 3
-    2 --> 4
-    2 --> 5
+    1((1)) --> 2((2))
+    1 --> 3((3))
+    2 --> 4((4))
+    2 --> 5((5))
 ```
