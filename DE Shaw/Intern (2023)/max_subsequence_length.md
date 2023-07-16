@@ -22,7 +22,11 @@ Complete the function `getMaxSubsequenceLen`:
 
 ## Constraints
 
-- `1 <= n <= 2 × 1e5`<br>- `1 <= arr[i] <= 1e4`<br>- `1 <= max_sum <= 1e15`
+- `1 <= n <= 2 × 1e5`
+
+- `1 <= arr[i] <= 1e4`
+
+- `1 <= max_sum <= 1e15`
 
 It is guaranteed that at least one of the elements of the `arr` is less than `max_sum`.
 
